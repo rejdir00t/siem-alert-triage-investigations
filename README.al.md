@@ -101,5 +101,5 @@ Për transparencë, rooms-at e mëposhtëm përbëjnë themelin praktik të kët
 
 ---
 
-*Mirëmbajtur nga Arejdi Haxhiu — Student në vitin e fundit të Inxhinierisë Elektronike, në kalim drejt rolit të SOC analyst.*
+*Mirëmbajtur nga Arejdi Haxhiu*
 *🇬🇧 Versioni në anglisht: [`README.en.md`](README.en.md)*
