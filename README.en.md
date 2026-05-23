@@ -101,5 +101,5 @@ For transparency, the following rooms form the practical foundation of this port
 
 ---
 
-*Maintained by Arejdi Haxhiu — Final-year Electronic Engineering student transitioning into SOC analyst roles.*
+*Maintained by Arejdi Haxhiu*
 *🇦🇱 Albanian version available: [`README.al.md`](README.al.md)*
